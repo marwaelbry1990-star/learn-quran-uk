@@ -1,0 +1,312 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "1a771372aa156675562ce95d10a632c7"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "4e1c6244455e2a19ec7b294b7b1c2331"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "a0ba884548820066dfadd8416036abba"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "c8f24385262425ace55bdac985c878df"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "dafec4f87fead6718cb125f0b0fc8441"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/anitaa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/anitaa/index.html",
+        "type": "file",
+        "md5": "9ebf5d293c15e7405458a0056ec66719"
+    },
+    {
+        "path": "best-online-quran-classes-for-kids-a-complete-guide-to-choosing-engaging-personalized-and-effective-quran-education",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-online-quran-classes-for-kids-a-complete-guide-to-choosing-engaging-personalized-and-effective-quran-education/index.html",
+        "type": "file",
+        "md5": "8fb6a4e891e314ee1c24382393b6302d"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "e51ac88480c0417989ea8f15ec2dd493"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "38e806d0fdd346210a09f7eee5a2d8b6"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "94e4e21799c18aa7b0e7963afd9ec55f"
+    },
+    {
+        "path": "learn-quran-online-a-complete-and-flexible-approach-to-quran-reading-tajweed-memorization-and-understanding",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-online-a-complete-and-flexible-approach-to-quran-reading-tajweed-memorization-and-understanding/index.html",
+        "type": "file",
+        "md5": "5f7cc7433e5d98d109b77c6354e60ebe"
+    },
+    {
+        "path": "learn-quran-uk-a-flexible-and-personalized-way-to-improve-quran-reading-tajweed-memorization-and-islamic-knowledge",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-uk-a-flexible-and-personalized-way-to-improve-quran-reading-tajweed-memorization-and-islamic-knowledge/index.html",
+        "type": "file",
+        "md5": "1bd272558557a0039bcaea33538fd762"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/Quran-Classes.png",
+        "type": "file",
+        "md5": "2848f2220e8c8b245af7e833f31a6dd1"
+    },
+    {
+        "path": "media/posts/3/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/responsive/Quran-Classes-2xl.png",
+        "type": "file",
+        "md5": "6825a4562eb485311e6943550e77f2d6"
+    },
+    {
+        "path": "/media/posts/3/responsive/Quran-Classes-lg.png",
+        "type": "file",
+        "md5": "6825a4562eb485311e6943550e77f2d6"
+    },
+    {
+        "path": "/media/posts/3/responsive/Quran-Classes-md.png",
+        "type": "file",
+        "md5": "6825a4562eb485311e6943550e77f2d6"
+    },
+    {
+        "path": "/media/posts/3/responsive/Quran-Classes-sm.png",
+        "type": "file",
+        "md5": "5b01b71fd17aa838d03286be6c7c72f1"
+    },
+    {
+        "path": "/media/posts/3/responsive/Quran-Classes-xl.png",
+        "type": "file",
+        "md5": "6825a4562eb485311e6943550e77f2d6"
+    },
+    {
+        "path": "/media/posts/3/responsive/Quran-Classes-xs.png",
+        "type": "file",
+        "md5": "7af99bf2e1f70268afb81db8c5116486"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/Quran-Learning.jpg",
+        "type": "file",
+        "md5": "d8fb75d422e384dac3e9a23662937b26"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/Quran-Learning-2xl.jpg",
+        "type": "file",
+        "md5": "517bb40ff8e6a859c34f571b13314f9e"
+    },
+    {
+        "path": "/media/posts/5/responsive/Quran-Learning-lg.jpg",
+        "type": "file",
+        "md5": "517bb40ff8e6a859c34f571b13314f9e"
+    },
+    {
+        "path": "/media/posts/5/responsive/Quran-Learning-md.jpg",
+        "type": "file",
+        "md5": "517bb40ff8e6a859c34f571b13314f9e"
+    },
+    {
+        "path": "/media/posts/5/responsive/Quran-Learning-sm.jpg",
+        "type": "file",
+        "md5": "d89559749370740b040a02bfd63c8d9e"
+    },
+    {
+        "path": "/media/posts/5/responsive/Quran-Learning-xl.jpg",
+        "type": "file",
+        "md5": "517bb40ff8e6a859c34f571b13314f9e"
+    },
+    {
+        "path": "/media/posts/5/responsive/Quran-Learning-xs.jpg",
+        "type": "file",
+        "md5": "481074ceeb2a00d7d963294963a5d38a"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/Quran-Learning-UK-1024x546-1.webp",
+        "type": "file",
+        "md5": "2b52a5dec5ddda1c4903ba52fcfdeaef"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/Quran-Learning-UK-1024x546-1-2xl.webp",
+        "type": "file",
+        "md5": "27f935dc677d4c90342b527b62d840ce"
+    },
+    {
+        "path": "/media/website/responsive/Quran-Learning-UK-1024x546-1-lg.webp",
+        "type": "file",
+        "md5": "27f935dc677d4c90342b527b62d840ce"
+    },
+    {
+        "path": "/media/website/responsive/Quran-Learning-UK-1024x546-1-md.webp",
+        "type": "file",
+        "md5": "27f935dc677d4c90342b527b62d840ce"
+    },
+    {
+        "path": "/media/website/responsive/Quran-Learning-UK-1024x546-1-sm.webp",
+        "type": "file",
+        "md5": "ea73ff66191e77116a69fb8ef3fd0d35"
+    },
+    {
+        "path": "/media/website/responsive/Quran-Learning-UK-1024x546-1-xl.webp",
+        "type": "file",
+        "md5": "27f935dc677d4c90342b527b62d840ce"
+    },
+    {
+        "path": "/media/website/responsive/Quran-Learning-UK-1024x546-1-xs.webp",
+        "type": "file",
+        "md5": "cbf6087bc5d014d5c776e99f188bee28"
+    },
+    {
+        "path": "online-quran-classes-for-kids-uk-a-flexible-and-personalized-way-to-build-quran-reading-tajweed-memorization-and-islamic-skills",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-classes-for-kids-uk-a-flexible-and-personalized-way-to-build-quran-reading-tajweed-memorization-and-islamic-skills/index.html",
+        "type": "file",
+        "md5": "c02bed9e2c33b74a62e1c97adec3df59"
+    },
+    {
+        "path": "quran-school-for-adults-a-flexible-and-personalized-path-to-better-quran-reading-tajweed-memorization-and-understanding",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-school-for-adults-a-flexible-and-personalized-path-to-better-quran-reading-tajweed-memorization-and-understanding/index.html",
+        "type": "file",
+        "md5": "5242af8ab4acec8eeff37dec135bbebe"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "9152d7f1724ed8fbcd2e0c87029f193c"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "6453a21e2d1d2953e1bd73a6ec3e16a3"
+    }
+]
